@@ -1,3 +1,7 @@
+# 21SavageFanPage-Auth
+
+This app allows users to post a fan message onto 21Savage fan page. Each message can upvoted, downvoted or removed. 
+
 ## Installation
 
 1. Clone repo
@@ -8,7 +12,10 @@
 1. run `node server.js`
 2. Navigate to `localhost:8080`
 
+## How It's Made:
+-Tech used: CSS, JavaScript ES6+, Node.js, MongoDB
+
 ## Credit
 
 Modified from Scotch.io's auth tutorial
-# 21SavageFanPage-Auth
+
